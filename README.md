@@ -71,7 +71,6 @@ Give an ⭐️ if you like this project!
 - Hat tip to [stackoverflow](https://stackoverflow.com) community.
 - Hat tip to [Create React App](https://github.com/facebook/create-react-app)
 - Hat tip to [Vercel](https://www.vercel.com/)
-- Hat tip to [JavaScript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A) 
 
 ## Issues
 If you would like to report an issue [the link](https://github.com/RICKCOYL/Commerce-Store/issues)
